@@ -1,0 +1,3 @@
+Implement Low voltage pmos and floating-gat mos with Sentaurus.
+
+Implement Lightly doped drain and Spacer on FGMOS.
